@@ -22,11 +22,11 @@ body{
 .contain{
     text-align: center;
 }
-h1{
-    color:  #ffffff;
+.contain h1{
+    color:  #fcfcfc;
     font-size: 80px;
 }
-p{
+.contain p{
     font-size: 20px;
     color:#ffffff ;
 }
@@ -37,8 +37,52 @@ p{
     color: white;
     background-image:  linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
     border-radius:10px;
-    outline: none;
     font-weight: 700;
 
 }
+.main-area{
+    width: 100%;
+    height: 100vh;
+   
+}
+.text-area{
+    text-align: center;
+}
+.text-area h1{
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
+.text-area p{
+    color: grey;
+    font-size: 30px;
+}
+.box{
+    font-weight: 700;
+    color: grey;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color:wheat;   
+    padding: 40px 20px;
+    margin-left: 3%;
+}
+.text-color{
+    color: red;
+    border: 2px solid red;
 
+}
+.donate-section{
+    height: 12vh;
+}
+.input-area{
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    
+     width: 100%;
+}
+input{
+    padding: 15px;
+    width: 50%;
+}
