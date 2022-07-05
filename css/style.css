@@ -18,6 +18,7 @@ body{
     height: 100%;
     justify-content: center;
     align-items: center;
+    padding: 80px;
 }
 .contain{
     text-align: center;
@@ -29,6 +30,7 @@ body{
 .contain p{
     font-size: 20px;
     color:#ffffff ;
+    text-align: center;
 }
 .link-button{
     font-size: 25px;
@@ -45,18 +47,6 @@ body{
     height: 100vh;
    
 }
-.text-area{
-    text-align: center;
-}
-.text-area h1{
-    color: black;
-    font-size: 30px;
-    font-weight: 700;
-}
-.text-area p{
-    color: grey;
-    font-size: 30px;
-}
 .box{
     font-weight: 700;
     color: grey;
@@ -71,18 +61,15 @@ body{
     border: 2px solid red;
 
 }
-.donate-section{
-    height: 12vh;
+.main-section{
+    padding: 80px;
 }
-.input-area{
-    display: flex;
-    height: 100%;
-    justify-content: center;
-    align-items: center;
-    
-     width: 100%;
+h3{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
 }
-input{
-    padding: 15px;
-    width: 50%;
+.pera{
+    text-align: center;
+    font-size:25px;
 }
