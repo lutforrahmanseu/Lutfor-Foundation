@@ -52,7 +52,7 @@ body{
     color: grey;
     box-sizing: border-box;
     border-radius: 5px;
-    background-color:wheat;   
+    background-color:rgb(206, 203, 203);   
     padding: 40px 20px;
     margin-left: 3%;
 }
@@ -72,4 +72,36 @@ h3{
 .pera{
     text-align: center;
     font-size:25px;
+}
+input{
+    width: 90%;
+    margin-left: 50px;
+    padding: 18px;
+    text-align: center;
+}
+.container
+{
+    display: flex;
+    padding: 50px;
+}
+.food{
+    width:100%;
+    background-color: rgb(209, 211, 211);
+    border-radius: 10px;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 20px;
+}
+.bg-color{
+    background-color: #e7d0b9;
+}
+.bg-color1{
+    background-color: #cab29a;
+}
+h4{
+    font-size: 20px;
+    font-weight: 700;
+}
+.food p{
+    padding: 5px;
 }
