@@ -5,6 +5,7 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
+  
 }
 .header-section{
     width: 100%;
@@ -104,4 +105,41 @@ h4{
 }
 .food p{
     padding: 5px;
+}
+.half-width{
+    width: 50%;
+    padding: 50px;
+    height: 50%;
+    
+   
+}
+.half-width img{
+    width: 100%;
+    padding: 3%;
+}
+.pera1{
+    padding-bottom: 25px;
+}
+.Updates{
+    margin-top: 50px;
+    height: 20px;
+    width: 50%;
+    margin-left: 25%;
+    background-color: #cab29a;
+}
+.footer-section{
+    margin-top: 50px;
+    height: 40vh;
+    background-color: rgb(8, 7, 10);
+}
+.footer-area{
+    text-align: center;
+    padding-top:100px ;
+}
+.footer-color{
+    color: #FBA24F;
+  
+}
+.pera-color{
+    color: white;
 }
